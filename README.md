@@ -14,3 +14,5 @@ I made this cause i was bored and deside to practice in programming with C.
 ## 🛠️ Installation & Run
 
 ### **Clone the repository, run it in your console or editor, or do what you want with it. You can modify it or something**
+There two crucial for program working files: `main.c` and `words.txt`.
+
